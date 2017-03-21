@@ -1,3 +1,3 @@
-# Semaine2
+# Badges codecademy
 
-https://www.codecademy.com/users/GatanPavlovic/achievements
+retrouver mes badges [ici] (https://www.codecademy.com/users/GatanPavlovic/achievements)
